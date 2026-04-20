@@ -104,5 +104,3 @@ The build output will be in the `dist` folder. You can deploy it to any static h
 This project is open source and available under the MIT License.
 
 ---
-
-Made with 💸 for the React Developer Viva.
